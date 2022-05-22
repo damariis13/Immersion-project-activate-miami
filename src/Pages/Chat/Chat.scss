@@ -1,0 +1,28 @@
+.livechat {
+    width: 30vw;
+}
+
+.pfp {
+    width: 23vw;
+    margin: 0 auto;
+
+    &_name {
+        background-color: #FBB957;
+        width: 1.5vw;
+        border-radius: 50%;
+        border-color: 2px solid white;
+        text-align: center;
+        font-weight: 400;
+        font-size: 1.3rem;
+        margin: 20px 10px;
+    }
+
+    &_input {
+        width: 80%;
+        padding: 10px;
+        padding-bottom: 2rem;
+        margin: 0 auto;
+        margin-bottom: 2rem;
+    }
+}
+

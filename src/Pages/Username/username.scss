@@ -1,0 +1,32 @@
+.moon-username {
+    width: 20%;
+}
+
+.main_legal {
+
+    p {
+        margin: 0;
+        padding: 10px;
+        font-weight: 400;
+        width: 60%;
+        margin: 0 auto;
+    }
+}
+
+.scnd-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h2 {
+        font-size: 1.3rem;
+        font-weight: bold;
+        font-family: 'roboto', sans-serif;
+        padding-bottom: 20px;
+    }
+
+    input {
+        margin-bottom: 20px;
+    }
+}

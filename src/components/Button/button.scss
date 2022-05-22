@@ -1,0 +1,23 @@
+.btn { 
+    margin-top: 3rem;
+    margin-right: 10px;
+    margin-bottom: -1rem;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+    &_text {
+        background-color: #ffffff;
+        font-size: 1rem;
+        border-radius: 10px;
+        font-weight: 300;
+        border: none;
+        color: #78204f;
+        padding: 5px 10px;
+        font-family: Roboto, "Helvetica Neue", sans-serif;
+        cursor: pointer;
+        -webkit-user-select: none;
+             -moz-user-select: none;
+            -ms-user-select: none;
+                user-select: none;
+        background-image: none;
+    }
+}

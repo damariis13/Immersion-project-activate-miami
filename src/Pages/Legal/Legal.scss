@@ -1,0 +1,58 @@
+.legal {
+    margin-right: 15px;
+}
+
+.main_legal {
+    background-color: #ffff;
+    padding-bottom: 2rem;
+
+    h1 {
+        font-size: 2.5rem;
+        font-weight: 400;
+        margin-bottom: 1rem;
+        padding: 2rem  0rem 1rem 1rem;
+    }
+
+    p {
+        font-size: 1.5rem;
+        font-weight: 300;
+        margin-bottom: 1rem;
+        padding: 0rem 0rem 1rem 1rem;
+    }
+}
+
+.backArrow {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    cursor: pointer;
+    width: 2.9rem;
+}
+
+.legal_btns {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    margin-top: 1rem;
+}
+
+.legal_btn {
+    background-color: #ffff;
+        border-radius: 20px;
+        margin-bottom: 1rem;
+        padding: 0.7rem 1.5rem;
+        border-color: #ffff;
+        cursor: pointer;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        font-size: 1rem;
+        font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.purple {
+    background-color: #85296A;
+    border-color: #85296A;
+    color: #ffff;
+}

@@ -1,0 +1,42 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    padding: 3rem;
+    text-align: center;
+
+
+    &_create {
+        background-color: #85296A;
+        border-color: #85296A;
+        color: #ffff;
+        border-radius: 20px;
+        padding: 0.7rem 1.5rem;
+        cursor: pointer;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        font-size: 1.1rem;
+        font-family: Roboto, "Helvetica Neue", sans-serif;
+    }
+
+    &_wallet {
+        background-color: #ffff;
+        border-radius: 20px;
+        margin-top: 1.5rem;
+        margin-right: 10px;
+        margin-bottom: -1rem;
+        padding: 0.7rem 1.5rem;
+        border-color: #ffff;
+        cursor: pointer;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        font-size: 1rem;
+        font-family: Roboto, "Helvetica Neue", sans-serif;
+    }
+}
