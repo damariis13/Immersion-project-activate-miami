@@ -21,7 +21,7 @@ function Username() {
             <div className='scnd-section'>
             <h2>Username</h2>
         <input type="text" className="username" placeholder="@username" />
-        <img src={Moonmoon} className="moon-username" />
+        <img src={Moonmoon} alt="moonmoon-img" className="moon-username" />
             </div>
         </div>
         <div className='legal_btns'>

@@ -17,7 +17,7 @@ function Congrats() {
             <div className="main_legal">
             <h1 className='title'>Congrats!! closer to your wallet</h1>
             </div>
-            <img src={Moonmoon} className="robot-img" />
+            <img src={Moonmoon} className="robot-img" alt="robot-img"/>
         </div>
         <div className='legal_btns'>
         <button className='legal_btn purple'>Let's do it!</button>

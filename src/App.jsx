@@ -8,6 +8,7 @@ import PrivacyPolicy from './Pages/PP/Pp.jsx';
 import WalletTermsOfService from './Pages/WOS/Wos.jsx';
 import Congrats from './Pages/Congrats/congrats.jsx';
 import Username from './Pages/Username/username.jsx';
+
 function App() {
   return (
     <Router>
